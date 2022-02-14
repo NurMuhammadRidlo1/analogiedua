@@ -1,1 +1,3 @@
 # analogiedua
+
+# mengubah isi readme
